@@ -1,0 +1,21 @@
+development:
+  adapter: mysql
+  database: first_ruby
+  host: localhost
+  username: root
+  password:
+
+test:
+  adapter: mysql
+  database: first_ruby
+  host: localhost
+  username: root
+  password:
+
+production:
+  adapter: mysql
+  database: first_ruby
+  host: localhost
+  username: root
+  password:
+  

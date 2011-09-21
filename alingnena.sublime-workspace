@@ -1,0 +1,157 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 392,
+		"selected_items":
+		[
+			[
+				"",
+				"Set Syntax: Ruby Haml"
+			]
+		],
+		"width": 392
+	},
+	"console":
+	{
+		"height": 0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Progetti/rails/alingnena-app/.gitignore",
+		"/C/Progetti/rails/example/ri20min.rb",
+		"/C/Progetti/rails/alingnena-app/app/views/layouts/application.html.erb",
+		"/C/Progetti/rails/alingnena-app/app/helpers/debts_helper.rb",
+		"/C/Progetti/rails/alingnena-app/app/assets/javascripts/debts.js.coffee",
+		"/C/Progetti/rails/alingnena-app/app/assets/javascripts/application.js",
+		"/C/Progetti/rails/alingnena-app/app/assets/stylesheets/application.css",
+		"/C/Progetti/rails/alingnena-app/app/assets/javascripts/application.js.bak",
+		"/C/Progetti/rails/alingnena-app/config/database.yml",
+		"/C/Progetti/rails/alingnena-app/Gemfile",
+		"/C/Progetti/rails/alingnena-app/db/migrate/20110920162849_create_debts.rb",
+		"/C/Users/romolo.salvi/Desktop/RubyOnRails/cookbook_part1_0.13.1/cookbook/config/database.yml",
+		"/C/Progetti/rails/alingnena-app/config/environment.rb",
+		"/C/Users/romolo.salvi/Desktop/RubyOnRails/cookbook_part1_0.13.1/cookbook/config/environment.rb",
+		"/C/Progetti/rails/alingnena-app/public/index.html",
+		"/C/Progetti/rails/alingnena-app/public/404.html",
+		"/C/Sviluppo/ruby/lib/ruby/gems/1.9.1/gems/execjs-1.2.7/lib/execjs/runtimes.rb",
+		"/C/Sviluppo/ruby/lib/ruby/gems/1.9.1/gems/execjs-1.2.7/lib/execjs/external_runtime.rb"
+	],
+	"find":
+	{
+		"height": 0
+	},
+	"find_in_files":
+	{
+		"height": 0,
+		"include_history":
+		[
+		],
+		"location_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0
+	},
+	"input":
+	{
+		"height": 29
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0,
+			1
+		],
+		"rows":
+		[
+			0,
+			1
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"select_project":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268,
+	"status_bar_visible": true
+}

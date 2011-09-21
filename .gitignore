@@ -1,0 +1,5 @@
+.bundle
+db/*.mysql
+log/*.log
+tmp/
+.sass-cache/
